@@ -2,5 +2,7 @@
 
 My practice repo for Git Training 2026
 
-Name: Jeanesa Dugang
+# Name
+Jeanesa Dugang
+
 
